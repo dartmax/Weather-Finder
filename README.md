@@ -5,7 +5,7 @@ Weather App built with React.
 
 ## Tech Stack
 
-**React, Typescript, Redux, StyledComponents**
+**React, Redux**
 
 ## Features
 
