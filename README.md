@@ -1,7 +1,7 @@
 # React Weather
 
 Weather App built with React.
-[Live Demo](https://.app/)
+[Live Demo](https://agitated-ramanujan-e13a00.netlify.app/)
 
 ## Tech Stack
 
